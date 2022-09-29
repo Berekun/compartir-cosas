@@ -1,0 +1,38 @@
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.csproj.AssemblyReference.cache
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.AssemblyInfoInputs.cache
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.AssemblyInfo.cs
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.csproj.CoreCompileInputs.cache
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.exe
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.deps.json
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.runtimeconfig.json
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.dll
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.pdb
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.dll
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\refint\Prueba 2.dll
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.pdb
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.genruntimeconfig.cache
+C:\Users\danberinf\Desktop\Prueba 2\Prueba 2\obj\Debug\net6.0\ref\Prueba 2.dll
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.csproj.AssemblyReference.cache
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.AssemblyInfoInputs.cache
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.AssemblyInfo.cs
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.csproj.CoreCompileInputs.cache
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.dll
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\refint\Prueba 2.dll
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.pdb
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.exe
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.deps.json
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.runtimeconfig.json
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.dll
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\bin\Debug\net6.0\Prueba 2.pdb
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.genruntimeconfig.cache
+C:\Users\danberinf\Desktop\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\ref\Prueba 2.dll
+D:\Documentos\Deberes de Dani\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.csproj.AssemblyReference.cache
+D:\Documentos\Deberes de Dani\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Deberes de Dani\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.AssemblyInfoInputs.cache
+D:\Documentos\Deberes de Dani\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.AssemblyInfo.cs
+D:\Documentos\Deberes de Dani\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.csproj.CoreCompileInputs.cache
+D:\Documentos\Deberes de Dani\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.dll
+D:\Documentos\Deberes de Dani\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\refint\Prueba 2.dll
+D:\Documentos\Deberes de Dani\Programacion\Prueba 2\Prueba 2\obj\Debug\net6.0\Prueba 2.pdb
